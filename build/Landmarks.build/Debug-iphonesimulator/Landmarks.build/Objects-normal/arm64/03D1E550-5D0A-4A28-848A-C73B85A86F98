@@ -1,8 +1,0 @@
-{
-  "" : {
-    "pch" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphonesimulator/Landmarks.build/Objects-normal/arm64/Landmarks-primary-Bridging-header.pch"
-  },
-  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/ContentView.swift" : {
-    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphonesimulator/Landmarks.build/Objects-normal/arm64/ContentView.__XCPREVIEW_THUNKSUFFIX__.preview-thunk.o"
-  }
-}
