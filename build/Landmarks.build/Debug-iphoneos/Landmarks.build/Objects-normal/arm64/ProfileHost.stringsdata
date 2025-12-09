@@ -1,0 +1,16 @@
+{
+  "source": "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Profiles/ProfileHost.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 19
+        }
+      }
+    ]
+  },
+  "version": 1
+}

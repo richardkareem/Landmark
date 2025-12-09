@@ -1,0 +1,30 @@
+{
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/LandmarksApp.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/LandmarksApp.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/LandmarksApp.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/LandmarksApp.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/LandmarksApp.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/LandmarksApp.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/ContentView.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ContentView.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ContentView.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Profiles/ProfileSummary.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ProfileSummary.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ProfileSummary.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ProfileSummary.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ProfileSummary.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/ProfileSummary.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  }
+}

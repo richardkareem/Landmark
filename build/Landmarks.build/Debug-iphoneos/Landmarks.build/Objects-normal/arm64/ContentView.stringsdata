@@ -1,0 +1,24 @@
+{
+  "source": "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Featured",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "List",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 26
+        }
+      }
+    ]
+  },
+  "version": 1
+}

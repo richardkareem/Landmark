@@ -1,0 +1,16 @@
+{
+  "source": "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Badges/HikeBadge.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Badge for: %@.",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 21
+        }
+      }
+    ]
+  },
+  "version": 1
+}

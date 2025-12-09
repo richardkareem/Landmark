@@ -1,0 +1,30 @@
+{
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Categories/CategoryRow.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CategoryRow.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CategoryRow.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CategoryRow.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CategoryRow.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CategoryRow.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Helpers/CircleImage.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CircleImage.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CircleImage.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CircleImage.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CircleImage.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/CircleImage.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Helpers/FavoriteButton.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/FavoriteButton.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/FavoriteButton.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/FavoriteButton.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/FavoriteButton.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/FavoriteButton.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Helpers/MapView.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/MapView.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/MapView.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/MapView.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/MapView.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/MapView.swiftdeps"
+  }
+}

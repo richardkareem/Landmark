@@ -1,0 +1,48 @@
+{
+  "source": "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Profiles/ProfileSummary.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Notifications: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seasonal Photos: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Goal Date: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Completed Badge",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Hike",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 46
+        }
+      }
+    ]
+  },
+  "version": 1
+}

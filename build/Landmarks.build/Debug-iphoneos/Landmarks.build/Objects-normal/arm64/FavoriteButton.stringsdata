@@ -1,0 +1,16 @@
+{
+  "source": "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Helpers/FavoriteButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Toggle Favorite",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}

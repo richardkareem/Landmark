@@ -1,0 +1,30 @@
+{
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Badges/Badge.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/Badge.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/Badge.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/Badge.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/Badge.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/Badge.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Badges/BadgeBackground.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeBackground.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeBackground.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeBackground.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeBackground.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeBackground.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Badges/BadgeSymbol.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeSymbol.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeSymbol.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeSymbol.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeSymbol.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/BadgeSymbol.swiftdeps"
+  },
+  "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/Landmarks/Views/Badges/HexagonParameters.swift" : {
+    "const-values" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/HexagonParameters.swiftconstvalues",
+    "dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/HexagonParameters.d",
+    "diagnostics" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/HexagonParameters.dia",
+    "object" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/HexagonParameters.o",
+    "swift-dependencies" : "/Users/richardkareem/Documents/my-workspace/learn-swift/Landmarks/build/Landmarks.build/Debug-iphoneos/Landmarks.build/Objects-normal/arm64/HexagonParameters.swiftdeps"
+  }
+}
